@@ -3,8 +3,6 @@
 [![npm version](https://badge.fury.io/js/m-log.svg?style=flat)](https://badge.fury.io/js/m-log)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://ruedap.mit-license.org/2015)
 
-
-
 ## インストール - Install
 ```
 $ npm i -S m-log
