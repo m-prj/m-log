@@ -14,7 +14,7 @@ $ npm i -S m-log
 
 ### NodeJS
 ```js
-var log  = require('./libs/log.js');
+var log  = require('m-log');
 
 log.out('# usage');
 log.out("A", {"hoge":"huga"});
