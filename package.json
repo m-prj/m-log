@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "colors": "^1.1.2",
-    "date-format": "0.0.2"
+    "date-format": "0.0.2",
+    "eval-sanitizer": "0.0.4"
   },
   "devDependencies": {
     "should": "^7.1.1",
